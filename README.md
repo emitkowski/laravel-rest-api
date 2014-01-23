@@ -1,4 +1,4 @@
-laravel-rest-api
-================
+laravel-sandbox
+===============
 
-Laravel REST API Sample
+Laravel 4.1 Sample Application

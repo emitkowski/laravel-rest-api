@@ -1,0 +1,20 @@
+{
+  "name": "Laravel Assets",
+  "version": "1.0.0",
+  "authors": [
+    "Eric Mitkowski <emitz13@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.10.2",
+    "jquery-ui": "1.10.3",
+    "bootstrap": "3.0.3"
+  }
+}
