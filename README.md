@@ -12,7 +12,21 @@ run "php artisan db:seed" to restore this sqlite db anytime
 
 Default application host name is http://laravelapi
 
-API Main Route - http://laravelapi/api/v1/customers/
+Customer API Routes
+---------------------
+
+http://laravelapi/api/v1/customers/ - GET pulls all customers
+
+http://laravelapi/api/v1/customers/{id} - GET pulls individual customer
+
+http://laravelapi/api/v1/customers/ - POST creates customer
+
+http://laravelapi/api/v1/customers/{id}  - PATCH updates customer
+
+http://laravelapi/api/v1/customers/{id} - DELETE removes individual customer
+
+http://laravelapi/api/v1/customers/search - GET search customers by parameters
+
 
 Main Code Files Paths
 ----------------
