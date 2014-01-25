@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'default' => 'mysql',
+	'default' => 'sqlite',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'laravel',
+			'database'  => 'sample_db',
 			'username'  => 'root',
 			'password'  => '',
 			'charset'   => 'utf8',

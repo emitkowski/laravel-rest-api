@@ -122,6 +122,6 @@ return array(
 	'pretend' => false,
 
 
-    'contact' => 'contact@NewProject.com'
+    'contact' => 'contact@RestApiSample.com'
 
 );

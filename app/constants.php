@@ -1,7 +1,5 @@
 <?php
-// States constants have values mapping to  object states table
 
-define("USER_SUSPENDED", 1);
 
 /*
  * Debug print function

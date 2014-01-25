@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://laravel',
+	'url' => 'http://laravelapi',
 
     /*
 	|--------------------------------------------------------------------------
@@ -123,11 +123,10 @@ return array(
         'Way\Generators\GeneratorsServiceProvider',
 
         // Application Providers
-        'NewProject\Admin\Services\AdminServiceProvider',
-        'NewProject\Repositories\RepositoryServiceProvider',
-        'NewProject\Services\ApplicationServiceProvider',
-        'NewProject\Services\Mailer\MailerServiceProvider',
-        'NewProject\Services\Validator\ValidatorServiceProvider',
+        'RestApiSample\Repositories\RepositoryServiceProvider',
+        'RestApiSample\Services\ApplicationServiceProvider',
+        'RestApiSample\Services\Mailer\MailerServiceProvider',
+        'RestApiSample\Services\Validator\ValidatorServiceProvider',
 
 
     ),

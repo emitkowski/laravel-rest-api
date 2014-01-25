@@ -28,7 +28,7 @@ return array(
 	|
 	*/
 
-	'model' => 'NewProject\Repositories\Admin\AdminRepositoryEloquent',
+	'model' => 'RestApiSample\Repositories\Admin\AdminRepositoryEloquent',
 
 	/*
 	|--------------------------------------------------------------------------

@@ -14,12 +14,10 @@
 			"app/database/migrations",
 			"app/database/seeds",
 			"app/tests/TestCase.php",
-            "app/NewProject/Admin/controllers",
-            "app/NewProject/API/v1"
-
+            "app/RestApiSample/API/v1"
 		],
         "psr-0": {
-            "NewProject" : "app/"
+            "RestApiSample" : "app/"
         }
 	},
 	"scripts": {
